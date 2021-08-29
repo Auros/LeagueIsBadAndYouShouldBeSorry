@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "LeagueIsBadAndYouShouldBeSorry",
+  "name": "LeagueIsBadAndYouShouldBeSorry",
+  "author": "Auros",
+  "version": "1.0.0",
+  "description": "If League of Legends is installed, it refuses to let you launch Beat Saber.",
+  "gameVersion": "1.16.4",
+  "dependsOn": {
+    "BSIPA": "^4.2.0"
+  }
+}
